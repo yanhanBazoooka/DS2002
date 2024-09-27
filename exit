@@ -1,0 +1,11 @@
+[33m6a84c32[m[33m ([m[1;36mHEAD[m[33m)[m HEAD@{0}: rebase (start): checkout HEAD~3
+[33m6bb8e1c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{1}: rebase (finish): returning to refs/heads/main
+[33m6bb8e1c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{2}: rebase (start): checkout refs/remotes/origin/main
+[33m6bb8e1c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{3}: commit: update
+[33m7f1a425[m HEAD@{4}: commit: update
+[33m2b63012[m HEAD@{5}: commit: lab
+[33m6a84c32[m[33m ([m[1;36mHEAD[m[33m)[m HEAD@{6}: commit: acc hw
+[33mec6e4df[m HEAD@{7}: commit: lab
+[33m84d989d[m HEAD@{8}: commit: upload hw
+[33mfa9dabe[m HEAD@{9}: commit: upload
+[33m7e9469c[m HEAD@{10}: clone: from https://github.com/yanhanBazoooka/DS2002.git
